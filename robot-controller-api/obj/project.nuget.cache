@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "YvBRGhWO8Du7mwVodKavwh+bYivWAPrKW93TDUu+cMNCM8gdEJhg+W2JN4jecqksPmpz4zecv8jEtqFjw91TEg==",
+  "success": true,
+  "projectFilePath": "D:\\SIT331\\3.2C\\robot-controller-api\\robot-controller-api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jubal\\.nuget\\packages\\fastmember.signed\\1.5.0\\fastmember.signed.1.5.0.nupkg.sha512",
+    "C:\\Users\\Jubal\\.nuget\\packages\\npgsql\\6.0.5\\npgsql.6.0.5.nupkg.sha512",
+    "C:\\Users\\Jubal\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
